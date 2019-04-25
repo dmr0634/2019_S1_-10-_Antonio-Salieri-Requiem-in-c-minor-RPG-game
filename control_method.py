@@ -3,7 +3,7 @@ if __name__ == '__main__':
     import pygame
 
     from pygame.locals import *
-    from player import Player_movement_setting
+    from player import Player
 
     WINDOW_WIDTH = 800
     WINDOW_HEIGHT = 600
