@@ -1,0 +1,1 @@
+{"player": {"dir": "right", "exp": 20, "rect": [320, 385, 57, 91], "speed": 5, "health": 60, "attack": 40, "items": ["key 0", "key"]}, "level": "0"}
