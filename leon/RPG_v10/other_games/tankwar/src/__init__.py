@@ -1,0 +1,1 @@
+image_folder = 'other_games/tankwar/image'
