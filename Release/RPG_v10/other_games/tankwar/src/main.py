@@ -285,7 +285,7 @@ def main():
                 moving2 = 7
                 movdir2 = 3
                 running_T2 = True
-        if key_pressed[pygame.K_KP0]:
+        if key_pressed[pygame.K_0]:
             if not myTank_T2.bullet.life:
                 # fire_sound.play()
                 myTank_T2.shoot()
